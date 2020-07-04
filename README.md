@@ -8,7 +8,7 @@ Trade and earn: <a target="_blank" href="https://www.quantaex.com/trading/qbtcqu
 
 [QuantaEx](https://www.quantaex.com) was established back in 2018 with their in-house development, keeping security  and users privacy on the top of the priority list the devs started rolling out new and improved updates for the site. [QuantaEx](https://www.quantaex.com) has its own telegram channel for users to share their thoughts and drop their suggestions. With a wise and helpful community by its side, [QuantaEx](https://www.quantaex.com) received lots of upgrades which were not mere hunches but rather features that the users wanted and came straight from the users as well. Hence, every added features was based upon your suggestions, The users! 
 The team has successfully integrated the requested features and functions throughout the months that now it every tab,button,menu or even the animations are as polished as it gets. And can be confidently can state that, It's one of the most sorted out exchanges out there, having a rich feature set, robust security and client prioritising.
-
+### QBTC Contract Address: 0x1089cc742f0f9712eb64d01bde67e82a800d2f77
 
 [QuantaEx](https://www.quantaex.com) has some big plans for the future as well. Community are already aware of the movement and the smart traders among them already has claimed their piece of the pie. 
 [QuantaEx](https://www.quantaex.com) has issued its own coin.
