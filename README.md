@@ -1,3 +1,5 @@
+![QuantaEx Promo for QBTC](https://github.com/QuantaPay/qbtc/blob/master/assets/20000-qudc-promo.png)
+
 ## Learn trade and earn with [QuantaEx](https://www.quantaex.com)
 
 [QuantaEx](https://www.quantaex.com) has been in the crypto space for quite a while now. After successfully completing its updates and upgrades throughout the months it's been on the favourite lists of many. [QuantaEx](https://www.quantaex.com) has always prioritised the safety and convenience of its user base. Bringing out the much requested features, faster trading execution and a customisable user interface that the users are free to change it to their hearts desire. [QuantaEx](https://www.quantaex.com) is one of the most feature packed exchanges out there and the list is way too vast to cover in a single article. But it will give you a pretty clear idea about what to expect. So let's dive right into it!
